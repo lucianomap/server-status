@@ -11,7 +11,7 @@ BASH script to track performance status such as CPU, Memory, Disk Usage and more
 - Rating Top 5 Processes by Memory Usage
 
 # How to Use It
-1. Change the server-stats.sh file permissions.
+1. Download and change the server-stats.sh file permissions.
    
    `chmod +x server-stats.sh`
 3. Execute the script.
