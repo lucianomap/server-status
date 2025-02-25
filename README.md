@@ -12,8 +12,10 @@ BASH script to track performance status such as CPU, Memory, Disk Usage and more
 
 # How to Use It
 1. Change the server-stats.sh file permissions.
+   
    `chmod +x server-stats.sh`
-2. Execute the script.
+3. Execute the script.
+   
    `./server-stats.sh`
 
 > This project is from roadmap.sh:
