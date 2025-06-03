@@ -29,6 +29,5 @@ BASH script to track performance status such as CPU, Memory, Disk Usage and more
    ./server-stats.sh
    ```
 
-
 > This project is from roadmap.sh:
 > https://roadmap.sh/projects/server-stats
